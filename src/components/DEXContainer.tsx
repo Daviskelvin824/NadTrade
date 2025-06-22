@@ -57,7 +57,7 @@ const DEXContainer = () => {
             <img
               src="/nad-trade-logo.png"
               alt="Nad Trade Logo"
-              className="w-24 h-24 mx-auto mb-4"
+              className="w-40 h-40 mx-auto mb-4"
             />
           </div>
           <h2 className="text-4xl font-bold mb-6 text-gradient-monad font-inter">
